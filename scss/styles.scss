@@ -1,6 +1,13 @@
 /* Main Stylesheet */
 
+/* Color Palette */
+$primary-color: gold;
+$secondary-color: purple;
 
 body {
-    background: gold;
+    background: $primary-color;
+}
+
+h1 {
+    color: $secondary-color;
 }
