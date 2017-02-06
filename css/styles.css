@@ -1,3 +1,23 @@
-body{background:gold}h1{color:purple}
+body{
+    background:teal
+}
+
+h1{
+    color:white;
+    text-transform:uppercase;
+    font-style:italic
+}
+
+p{
+    text-align:center;
+    line-height:1.5em
+}
+
+video{
+    border:10px solid red;
+    box-shadow:0 0 20px #333, 10px 10px 20px #333, 20px 20px 20px #333;
+    border-radius:50%;
+    display:block
+}
 
 /*# sourceMappingURL=styles.css.map */
